@@ -91,19 +91,6 @@ Proyecto de aprendizaje centrado en el consumo de APIs REST y gestión de tareas
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=myketorres563&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=myketorres563&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> Las estadísticas se generan mediante un servicio externo y pueden no mostrarse si deja de estar disponible.
-
----
 
 ## 🎯 Objetivos profesionales
 
